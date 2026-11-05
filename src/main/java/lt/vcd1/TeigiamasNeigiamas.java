@@ -1,4 +1,5 @@
 package lt.vcd1;
 
-public class teigimasNeigiamas {
+public class TeigiamasNeigiamas {
+
 }
